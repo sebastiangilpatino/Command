@@ -1,2 +1,2 @@
 # Command
-![DiagramaCommand](DiagramaCommand.png)
+![DiagramaCommand](Command/Command/DiagramaCommand.png)
